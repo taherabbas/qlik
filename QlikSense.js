@@ -32,6 +32,7 @@
 	//get objects -- inserted here --
 	app.getObject('CurrentSelections','CurrentSelections');
 	app.getObject('QV02','naeEJf');
+	app.getObject('QV03','SsbXFv');	
 	//create cubes and lists -- inserted here --
 
 } );
